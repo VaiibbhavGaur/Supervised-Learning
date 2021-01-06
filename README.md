@@ -1,7 +1,7 @@
 # Supervised-Learning
 This repository contains the supervised learning models on different datasets.
 
-## Content  
+## Concepts  
 Understand Machine Learning and its applications  
 Perform different techniques of supervised learning  
 Supervised machine learning  
