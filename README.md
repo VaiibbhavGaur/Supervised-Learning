@@ -13,4 +13,5 @@ SVM (Support Vector Machines)
 
 ## Projects
 KNN Breast Cancer Modelling  
+Identifying potential customers for loans
 
